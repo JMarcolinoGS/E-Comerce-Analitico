@@ -15,3 +15,4 @@ CREATE INDEX idx_produtos_estoque ON produtos (estoque);
 CREATE INDEX idx_clientes_email ON clientes (email);
 CREATE INDEX idx_pedidos_data ON pedidos (data_pedido);
 CREATE INDEX idx_itens_pedido_idpedido ON itens_pedido (id_pedido);
+
