@@ -63,3 +63,4 @@ CREATE TABLE log_estoque (
     FOREIGN KEY (id_produto) REFERENCES produtos(id_produto) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB;
 
+
