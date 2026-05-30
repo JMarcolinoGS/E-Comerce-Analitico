@@ -1,7 +1,6 @@
 -- insert_data.sql
 USE ecommerce_analytics;
 
-
 -- Clientes (10)
 INSERT INTO clientes (nome, email, cidade, estado) VALUES
 ('João Marcolino', 'joao.marcolino@email.com', 'São Paulo', 'SP'),
