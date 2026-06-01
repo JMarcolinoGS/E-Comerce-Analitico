@@ -64,3 +64,4 @@ CREATE TABLE log_estoque (
 ) ENGINE=InnoDB;
 
 
+
