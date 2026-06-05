@@ -76,3 +76,4 @@ BEGIN
     CALL registrar_entrada(OLD.id_produto, OLD.quantidade, CONCAT('Reversao (item ', OLD.id_item, ')'));
 END //
 DELIMITER ;
+
