@@ -7,4 +7,3 @@ Construir um projeto prático de SQL para demonstrar conhecimentos em:
 - DDL e DML (CREATE, INSERT, UPDATE)
 - Integridade referencial
 - Procedures, triggers e views
-
